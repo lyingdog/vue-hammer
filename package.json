@@ -1,0 +1,26 @@
+{
+  "name": "yyh-vue-hammer",
+  "version": "1.0.0",
+  "description": "使用vue的自定义指令，完成hammerjs手势事件的绑定和使用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyingdog/vue-hammer.git"
+  },
+  "keywords": [
+    "vue",
+    "hammer"
+  ],
+  "author": "换步左右",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyingdog/vue-hammer/issues"
+  },
+  "homepage": "https://github.com/lyingdog/vue-hammer#readme",
+  "dependencies": {
+    "hammerjs": "^2.0.8"
+  }
+}
