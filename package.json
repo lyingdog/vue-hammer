@@ -1,6 +1,6 @@
 {
   "name": "yyh-vue-hammer",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "使用vue的自定义指令，完成hammerjs手势事件的绑定和使用",
   "main": "index.js",
   "scripts": {
